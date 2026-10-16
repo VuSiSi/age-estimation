@@ -1,4 +1,6 @@
 *.png
 *.jpg
 *.csv
+
+data/raw/
 *.complete
