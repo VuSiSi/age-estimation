@@ -1,2 +1,4 @@
 *.png
-*.jpg.chip.jpg
+*.jpg
+*.csv
+*.complete
